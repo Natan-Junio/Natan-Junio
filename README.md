@@ -146,7 +146,7 @@ Atualmente, busco aprofundar meus conhecimentos em:
 
 Tenho interesse em projetos que envolvam **desenvolvimento de software, soluções empresariais, automação e transformação digital**.
 
-**🌐 Portfólio:** https://www.eitechnology.com.br
+**🌐 Portfólio:** 
 
 **💻 GitHub:** https://github.com/natan-junio
 
